@@ -1,0 +1,47 @@
+# wxauto-channel 配置模板
+# 复制此文件为 config.yaml 并根据实际情况修改
+
+# wxauto-restful-api 连接配置
+wxapi:
+  base_url: http://localhost:8001  # API 地址
+  token: token                      # API 访问令牌（必须与 API 配置一致）
+
+# OpenClaw Gateway 配置
+openclaw:
+  gateway_url: http://127.0.0.1:18789           # Gateway 地址
+  token: your_openclaw_token_here                # OpenClaw token（运行 openclaw gateway token 获取）
+  agent_id: main                                 # Agent 标识
+
+# 你的微信昵称（用于过滤自己的消息，必须与微信中显示的完全一致）
+my_nickname: 你的微信昵称
+
+# 临时文件目录
+temp_dir: ./tmp
+
+# 私聊配置
+private_chats:
+  - name: 好友1        # 好友备注名或微信昵称
+    enabled: true      # 是否启用
+
+  - name: 好友2
+    enabled: false
+
+# 群聊配置
+group_chats:
+  - name: 测试群                    # 群聊名称
+    enabled: true                   # 是否启用
+    reply_mode: at_me_only          # 回复模式: at_me_only（仅@时回复）或 all（回复所有）
+    sender_whitelist: []            # 发送者白名单（为空表示不限制）
+    sender_blacklist: []            # 发送者黑名单（为空表示不限制）
+
+  - name: 工作群
+    enabled: true
+    reply_mode: at_me_only
+    sender_whitelist: []
+    sender_blacklist: [广告bot]     # 不回复黑名单中的人
+
+  - name: 项目群
+    enabled: true
+    reply_mode: all
+    sender_whitelist: [张三, 李四]  # 仅回复白名单中的人
+    sender_blacklist: []

@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+wxauto-channel/config.yaml
+wxauto-restful-api/config.yaml
+!wxauto-channel/config.yaml.template
+!wxauto-restful-api/config.yaml.template
+*.log
+channel.log
+wxauto_api.log
+wxauto_logs/
+tmp/
+downloads/
+
+# Activation
+activation.json
+*.key
+
+# Package manager
+uv.lock
+pyproject.lock
+
+# Don't ignore template configs
+!config.yaml.template

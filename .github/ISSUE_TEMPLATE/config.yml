@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 加入微信交流群
+    url: https://github.com/SEUWanglibo/openclaw-wechat-channel#-加入社区
+    about: 扫描 README 中的二维码加入微信交流群获取即时帮助
+  - name: 查看文档
+    url: https://github.com/SEUWanglibo/openclaw-wechat-channel/tree/main/docs
+    about: 在提问前，请先查看项目文档
